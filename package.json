@@ -1,0 +1,15 @@
+{
+  "name": "basic-node-server-example",
+  "version": "1.0.0",
+  "description": "an example of how to create a very basic server using http module from node",
+  "main": "server.js",
+  "author": "Alejandro Gines",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
